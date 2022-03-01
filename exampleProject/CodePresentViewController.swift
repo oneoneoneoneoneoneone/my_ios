@@ -24,6 +24,8 @@ class CodePresentViewController: UIViewController {
         if let name = name {
             self.nameLabel.text = name
         }
+        
+        var higit = "hi";
     }
     
     @IBAction func tapBackButton(_ sender: UIButton) {
